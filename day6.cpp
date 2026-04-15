@@ -4,7 +4,11 @@
 using namespace std;
 int main(){
     vector<int>num={1,2,2,2,3,4,4,5};
-    int i=1;
+    if(num.size()<=2){
+            cout<<num.size()<<endl;
+            return 0;
+        }
+         int i=1;
     for(int j=2;j<num.size();j++){
         if(num[i-1]!=num[j]){
             i++;
