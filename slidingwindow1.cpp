@@ -1,4 +1,5 @@
 #include<iostream>
+//given an array,max sum of any subarray of size k
 #include<vector>
 #include<algorithm>
 using namespace std;

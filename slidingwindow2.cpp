@@ -1,4 +1,5 @@
 #include<iostream>
+//minimum size subarray whose sum>=target
 #include <vector>
 #include<climits>//for intmax
 #include<algorithm>
