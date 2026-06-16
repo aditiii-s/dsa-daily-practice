@@ -35,7 +35,7 @@ int longsubstringkdistinct(string s ,int k){
     return ans;
 }
 int main(){
-    cout<<longsubstringkdistinct("aabcaa",2);
+    cout<<longsubstringkdistinct("aabcaa",3);
 
     return 0;
 }
