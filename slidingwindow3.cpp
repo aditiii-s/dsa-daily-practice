@@ -1,4 +1,4 @@
-//LONGEST SUBSTRING WITH K DISTINCT CHARACTERS 
+//LONGEST SUBSTRING WITH K DISTINCT CHARACTERS  
 #include<iostream>
 #include<algorithm>
 #include<string>
