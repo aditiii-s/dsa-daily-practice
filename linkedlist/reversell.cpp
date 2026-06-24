@@ -10,7 +10,7 @@ public:
     // constructor named same as class
     Node(int val)
     {
-        data = val;
+        data = val;//kyuki yha input mei tum value put kroge vo data bnaega 
         next = NULL;
     }
 };
